@@ -28,25 +28,6 @@ Filter all the records where payment_method is 'credit'​
 
 Write all the filtered data in the output.txt file using Streams.
 
-# Instructions
-
-1.Download and unzip the boilerplate code.
-
-2.Run the command npm install to install the dependencies.
-
-3.Open the boilerplate code in VSCode to develop the assignment solution.
-
-4.Write the logic in **.js** file present in **src** folder
-
-5.Read the **.csv** file given in resources folder
-
-5.Run the test scripts available under src/test by giving the npm run test command in the terminal to test locally.
-
-6.Refactor the solution to ensure all test cases are passing.
-
-7.Zip the solution code with the name same as the assignment name.
-
-8.Upload the zipped solution for submission.
 
 
  
